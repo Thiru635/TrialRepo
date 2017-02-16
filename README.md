@@ -2,3 +2,4 @@
 Trail Repo to experiment with Git/GitHub code flow
 
 This is the first edit after initial auto commit done by GitHub.
+This is the second edit done from Branch1
